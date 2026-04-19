@@ -1,1 +1,3 @@
-# Number_Guessing_Game_Task1
+# Code Soft Internship Java
+
+Task 1 : Number Guessing Game 
