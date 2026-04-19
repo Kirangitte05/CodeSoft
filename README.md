@@ -1,31 +1,35 @@
-**# CodSoft Java Development Internship**
+# CodSoft Java Development Internship
 
--Welcome to the CodSoft Java Development Internship repository! This repository documents my progress and assignments during my internship journey. Here, I'll be working on a set of tasks to enhance my skills and knowledge in Java development.*
+Welcome to the CodSoft Java Development Internship repository!  
+This repository documents my progress and assignments during my internship journey.  
+Here, I'll be working on a set of tasks to enhance my skills and knowledge in Java development.
 
-**## Tasks Overview**
+## Tasks Overview
 
-**### Task 1: Number Guessing Game**
+### Task 1: Number Guessing Game
+- Generate random numbers  
+- Prompt user guesses  
+- Provide feedback (high/low/correct)  
+- Support multiple rounds and scoring  
 
-Generate random numbers, prompt user guesses, and provide feedback.
-Allow multiple rounds and calculate scores.
+### Task 2: Student Grade Calculator
+- Calculate total marks  
+- Compute average percentage  
+- Assign grades  
+- Display results  
 
-**Task 2: Student Grade Calculator**
-Calculate total marks and average percentage.
-Assign grades and display results.
+### Task 3: ATM Interface
+- Deposit and withdraw functionality  
+- Check account balance  
+- Input validation  
+- Simulate real ATM operations  
 
-**Task 3: ATM Interface**
+### Task 4: Currency Converter
+- Convert between currencies  
+- Use predefined exchange rates  
+- User-friendly interface  
 
-Create an ATM class with withdraw, deposit, and checkBalance methods.
-Implement input validation and connect with user's bank account.
-
-**Task 4: Currency Converter**
-
-Convert currencies using its exchange rates.
-Provide a user-friendly interface for currency conversion.
-
-**Task 5: Student Management System**
-
-Manage students with Student and StudentManagementSystem classes.
-CODSOFT
-
-**CodSoft Java Development internship**
+### Task 5: Student Management System
+- Add, remove, and search students  
+- Display all student records  
+- Use object-oriented approach (classes & lists)
